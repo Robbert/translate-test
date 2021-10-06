@@ -8,6 +8,6 @@ Another thing we wanted to investigate is if we can provide a right-to-left layo
 
 Examples:
 
-- [Dutch original](https://robbert-github-io.translate.goog/translate-test/)
+- [Dutch original](https://robbert.github.io/translate-test/)
 - [Arabic translation](https://robbert-github-io.translate.goog/translate-test/?_x_tr_sl=nl&_x_tr_tl=ar)
 - [English translation](https://robbert-github-io.translate.goog/translate-test/?_x_tr_sl=nl&_x_tr_tl=en)
