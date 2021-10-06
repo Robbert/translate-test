@@ -5,3 +5,9 @@ We were curious to find out how many people visit a website and use an automated
 This repository contains some example code to track translation events using Google Tag Manager as well as [Matomo](https://matomo.org).
 
 Another thing we wanted to investigate is if we can provide a right-to-left layout for translated versions of our website.
+
+Examples:
+
+- [Dutch original](https://robbert-github-io.translate.goog/translate-test/)
+- [Arabic translation](https://robbert-github-io.translate.goog/translate-test/?_x_tr_sl=nl&_x_tr_tl=ar)
+- [English translation](https://robbert-github-io.translate.goog/translate-test/?_x_tr_sl=nl&_x_tr_tl=en)
