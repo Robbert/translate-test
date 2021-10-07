@@ -11,3 +11,7 @@ Examples:
 - [Dutch original](https://robbert.github.io/translate-test/)
 - [Arabic translation](https://robbert-github-io.translate.goog/translate-test/?_x_tr_sl=nl&_x_tr_tl=ar)
 - [English translation](https://robbert-github-io.translate.goog/translate-test/?_x_tr_sl=nl&_x_tr_tl=en)
+
+## License
+
+[European Union Public License, version 1.2 (EUPL-1.2)](https://opensource.org/licenses/EUPL-1.2)

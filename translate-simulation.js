@@ -1,3 +1,8 @@
+/**
+ * @license EUPL-1.2
+ * Copyright (c) 2021 Robbert Broersma
+ */
+
 window.translate = (lang, dir) => {
   const root = document.documentElement;
   if (root) {

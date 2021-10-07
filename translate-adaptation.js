@@ -1,3 +1,8 @@
+/**
+ * @license EUPL-1.2
+ * Copyright (c) 2021 Robbert Broersma
+ */
+
 document.documentElement.addEventListener("utrechtTranslate", (evt) => {
   // Google Translate doesn't automatically configure the `dir="rtl"` or `dir="ltr"` attribute
   // for translations in the opposite text direction. Perhaps because not all layouts are agnostic to the text direction.

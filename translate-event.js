@@ -1,3 +1,8 @@
+/**
+ * @license EUPL-1.2
+ * Copyright (c) 2021 Robbert Broersma
+ */
+
 // Listen to changes to the `lang` attribute and to the introduction of the
 // `translated-ltr` and `translated-rtl` class names that are set by Google Translate.
 // Trigger a custom event `utrechtTranslate` with info about the new language and writing direction.
