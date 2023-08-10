@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html lang="en" class="utrecht-theme utrecht-html-content">
+<html lang="nl" class="utrecht-theme utrecht-html-content">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex,follow" />
     <meta name="author" content="Gemeente Utrecht" />
     <title>Houtstook &#124; Gemeente Utrecht</title>
@@ -163,6 +164,15 @@
           <pre dir="ltr" class="notranslate">
 // This is example code in a programming language</pre
           >
+        </aside>
+        <aside>
+          <h2>Buttons</h2>
+          <p>Button met label als inhoud</p>
+          <p><button><span aria-hidden="true">❤️</span> Vind me alsjeblieft leuk</button></p>
+          <p>Button met label in <code>aria-label</code></p>
+          <p><button aria-label="Vind me alsjeblieft leuk">❤️</button></p>
+          <p>Button met een verborgen label dat gekoppeld is via <code>aria-labelledby</code></p>
+          <p><button aria-labelledby="please-like-me-label">❤️ <span hidden id="please-like-me-label">Vind me alsjeblieft leuk</span></button></p>
         </aside>
       </div>
     </div>
