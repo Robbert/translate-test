@@ -177,13 +177,18 @@
         <div>
           <h2>Icons</h2>
           <p>SVG <code>use</code> icon:
-            <svg viewBox="0 0 32 32" class="icon icon--before" role="img" aria-hidden="true" width="1em" height="1em">
+            <svg viewBox="0 0 32 32" role="img" aria-hidden="true" width="1em" height="1em">
               <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="icons.svg#translate"></use>
             </svg>
           </p>
-          <p>SVG <code>use</code> icon with <code>translate="no"</code>:
-            <svg viewBox="0 0 32 32" class="icon icon--before" role="img" aria-hidden="true" translate="no" width="1em" height="1em">
+          <p>SVG <code>use xlink:href</code> icon with <code>translate="no"</code>:
+            <svg viewBox="0 0 32 32" role="img" aria-hidden="true" translate="no" width="1em" height="1em">
               <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="icons.svg#translate"></use>
+            </svg>
+          </p>
+          <p>SVG <code>use href</code> icon with <code>translate="no"</code>:
+            <svg viewBox="0 0 32 32" role="img" aria-hidden="true" translate="no" width="1em" height="1em">
+              <use href="icons.svg#translate"></use>
             </svg>
           </p>
           <p>Inline SVG icon:
